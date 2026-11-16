@@ -1,8 +1,8 @@
 # CandleSize
 
-Candle-size strategy: an indicator that measures candle body/range size and an EA that trades off it.
+Indicator for MetaTrader 5 that flags large candles, and a trading robot that trades on them.
 
-> **Proprietary software** — © Teenodi Ltd. All rights reserved. Private repository; not for distribution. See [LICENSE](LICENSE).
+> **Proprietary software.** © Teenodi Ltd. All rights reserved. The code is shared for viewing only. It is not licensed for reuse or redistribution. See [LICENSE](LICENSE).
 
 ## CandleSizeEA02.mq5
 
@@ -58,6 +58,10 @@ Earlier versions / forks are preserved under [`archive/`](archive/) for referenc
 2. In MetaEditor, open the file and compile (**F7**).
 3. Attach the compiled program to a chart from the terminal Navigator.
 
+## Risk note
+
+Trading carries risk. This code shows how the strategy is built. It is not financial advice.
+
 ## License
 
-Proprietary and confidential. © Teenodi Ltd. All rights reserved. See [LICENSE](LICENSE).
+Proprietary. © Teenodi Ltd. All rights reserved. The code is shared for viewing only. See [LICENSE](LICENSE).
